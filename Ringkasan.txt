@@ -1,0 +1,12 @@
+ReactJS Firebase Prawito Hudoro
+
+1. Membuat Project Firebase
+2. Integrasi Firebase dengan Project ReactJS
+3. Proses Registrasi menggunakan Firebase
+4. Setup Redux
+5. Setup Redux Thunk
+6. Login Menggunakan Firebase
+7. POST / Create database Firebase
+8. GET / Read database Firebase
+9. PUT / Update database Firebase
+10. Delete database Firebase
